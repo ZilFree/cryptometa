@@ -1,0 +1,10 @@
+data/zilliqa/assets/zil13f36stxyqxrethgrfqmlcr87rgm2chvv8rv86k/meta.json
+{
+    "name": "Free Token",
+    "symbol": "Free",
+    "supply": "1000000",
+    "gen": {
+      "logo": "logo.png",
+      "score": 5
+    }
+  }
